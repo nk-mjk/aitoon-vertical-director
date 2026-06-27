@@ -1,4 +1,4 @@
-![aitoon-vertical-director](aitoon-vertical-director-title.png)
+![aitoon-vertical-director](./aitoon-vertical-director-title.png)
 
 # aitoon-vertical-director
 
